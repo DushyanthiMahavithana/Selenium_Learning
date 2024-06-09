@@ -11,7 +11,7 @@ public class Main {
         WebDriverManager.chromedriver().setup();
         ChromeDriver driver = new ChromeDriver();
         //EdgeDriver driver = new EdgeDriver();
-        driver.get("https://www.saucedemo.com/");
+        driver.get("https://www.ebay.com/");
 
 
     }
